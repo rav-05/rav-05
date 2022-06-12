@@ -9,7 +9,7 @@ PL:
 EN:
 - 👋 Hi, I’m Rafał Grabowski.
 - 👀 I’m interested in robotics/IT/programming/3D printing.
-- 🌱 I’m currently learning in University of Technology in Bialystok.
+- 🌱 I’m currently studying at University of Technology in Bialystok.
 - 📫 How to reach me ---> r.grabowski2001@gmail.com.
 - 🤹‍♂️ My second account on github is Bluefish5 ---> https://github.com/Bluefish5.
 - 🥶 The purpose of this account is for portfolio only. My main account is Bluefish5.
